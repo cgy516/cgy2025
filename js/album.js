@@ -8,7 +8,7 @@ window.onload=function(){
         var lbli=document.createElement('li');
         var lbimg=document.createElement('img');
 
-        lbimg.src="../cgy2025/image/pics0"+i+".jpg";
+        lbimg.src="../image/pics0"+i+".jpg";
         lbimg.style.width="750px"
         lbimg.style.height="421px"
         lbli.appendChild(lbimg);
@@ -121,3 +121,4 @@ function dotmov(){
 
 
 }
+
